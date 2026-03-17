@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Verano Repaso\MercedesVersion1\MercedesVersion1\bin\Debug\MercedesVersion1.exe.config
+C:\Users\Usuario\source\repos\Verano Repaso\MercedesVersion1\MercedesVersion1\bin\Debug\MercedesVersion1.exe
+C:\Users\Usuario\source\repos\Verano Repaso\MercedesVersion1\MercedesVersion1\bin\Debug\MercedesVersion1.pdb
+C:\Users\Usuario\source\repos\Verano Repaso\MercedesVersion1\MercedesVersion1\obj\Debug\MercedesVersion1.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Verano Repaso\MercedesVersion1\MercedesVersion1\obj\Debug\MercedesVersion1.FormPrincipal.resources
+C:\Users\Usuario\source\repos\Verano Repaso\MercedesVersion1\MercedesVersion1\obj\Debug\MercedesVersion1.Forms.FormIngresar.resources
+C:\Users\Usuario\source\repos\Verano Repaso\MercedesVersion1\MercedesVersion1\obj\Debug\MercedesVersion1.Forms.FormQuienesSomos.resources
+C:\Users\Usuario\source\repos\Verano Repaso\MercedesVersion1\MercedesVersion1\obj\Debug\MercedesVersion1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Verano Repaso\MercedesVersion1\MercedesVersion1\obj\Debug\MercedesVersion1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Verano Repaso\MercedesVersion1\MercedesVersion1\obj\Debug\MercedesVersion1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Verano Repaso\MercedesVersion1\MercedesVersion1\obj\Debug\MercedesVersion1.exe
+C:\Users\Usuario\source\repos\Verano Repaso\MercedesVersion1\MercedesVersion1\obj\Debug\MercedesVersion1.pdb
